@@ -6,8 +6,9 @@
 }
 
 .card_main {
-  height: 200px;
-  width: 310px;
+  height: 150px;
+  width: 300px;
+  padding-top: 40px;
   /* border: 2px solid black; */
   background-color: rgb(99, 63, 133);
   transform: none;
@@ -54,10 +55,12 @@
 }
 
 .card_inner {
-  padding: auto;
+  /* padding: auto; */
   text-align: center;
   transform: none;
+
 }
+
 
 ul {
   list-style: none;
@@ -68,7 +71,7 @@ ul {
   flex-wrap: wrap;
   /* padding-left: 70px; */
 
-  width: 100%
+  width: 97%
 }
 
 
